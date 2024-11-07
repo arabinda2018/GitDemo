@@ -26,5 +26,7 @@ public static void main(String[] args) {
         if(s.add(name) == false)
             System.out.println(name + "is duplicated");
     }
+    System.out.println("from m22");
 }
+
 }
